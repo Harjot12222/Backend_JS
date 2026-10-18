@@ -5,3 +5,7 @@ Note : Every project mentioned here uses Express and Node frameworks of JavaScri
 1. Basic Server
 
 A very basic task manager that uses express and node to set up a basic server and different api endpoints to serve different functionalities.
+
+2. String Transformation Service
+
+A basic express and node server which features string transformations specifically - Reverse text and Word Count and combines both with api endpoints
